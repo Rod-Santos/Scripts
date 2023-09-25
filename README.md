@@ -14,11 +14,11 @@
 
 ### 🐧 Distribuições baseadas em Debian
 
-- **[Instala Apache2 para Ubuntu](https://github.com/Rod-Santos/Scripts/blob/main/Instala_apache2_ubuntu.sh)**
+- **[Instala Apache2 para Ubuntu](https://github.com/dasilva95Ro/Scripts/blob/main/Instala_apache2_ubuntu.sh)**
 
 ### 🎩 Distribuições baseadas em RedHat
 
-- **[Instala Httpd para CentOS](https://github.com/Rod-Santos/Scripts/blob/main/Instala_apache_centos.sh)**
+- **[Instala Httpd para CentOS](https://github.com/dasilva95Ro/Scripts/blob/main/Instala_apache_centos.sh)**
 
 #### 📦 Funcionalidades:
 
@@ -31,7 +31,7 @@
 
 ## 🐱 Apache Tomcat
 
-- **[Instala Apache Tomcat 8.5](https://github.com/Rod-Santos/Scripts/blob/main/Instala_tomcat.sh)**
+- **[Instala Apache Tomcat 8.5](https://github.com/dasilva95Ro/Scripts/blob/main/Instala_tomcat.sh)**
 
 #### 📦 Funcionalidades:
 
@@ -43,7 +43,7 @@
 
 ## 🐘 PostgreSQL
 
-- **[Instala PostgreSQL v13](https://github.com/Rod-Santos/Scripts/blob/main/Instala_postgres.sh)**
+- **[Instala PostgreSQL v13](https://github.com/dasilva95Ro/Scripts/blob/main/Instala_postgres.sh)**
 
 #### 📦 Funcionalidades:
 
@@ -55,4 +55,4 @@
 
 **Criado por Rodrigo Santos**
 
-[![GitHub](https://img.icons8.com/nolan/50/github.png)](https://github.com/Rod-Santos) [![LinkedIn](https://img.icons8.com/nolan/50/linkedin.png)](https://www.linkedin.com/in/rodrigodasilvasantos/)
+[![GitHub](https://img.icons8.com/nolan/50/github.png)](https://github.com/dasilva95Ro) [![LinkedIn](https://img.icons8.com/nolan/50/linkedin.png)](https://www.linkedin.com/in/rodrigodasilvasantos/)
